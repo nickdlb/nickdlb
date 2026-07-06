@@ -1,0 +1,14 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Banner do perfil GitHub de Nícolas Dias">
+  <rect width="1200" height="320" rx="32" fill="#0D1117"/>
+  <circle cx="1060" cy="80" r="140" fill="#1F6FEB" opacity="0.25"/>
+  <circle cx="120" cy="260" r="120" fill="#4493F8" opacity="0.18"/>
+  <path d="M90 235 C220 110, 330 330, 470 180 S740 95, 890 210 S1080 260, 1140 150" stroke="#4493F8" stroke-width="8" stroke-linecap="round" opacity="0.55"/>
+  <text x="80" y="124" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="700" fill="#F0F6FC">Nícolas Dias</text>
+  <text x="82" y="184" font-family="Inter, Arial, sans-serif" font-size="27" fill="#C9D1D9">Economia • Inteligência de Mercado • Código</text>
+  <text x="82" y="232" font-family="Inter, Arial, sans-serif" font-size="22" fill="#8B949E">github.com/nickdlb</text>
+  <g transform="translate(815 142)">
+    <rect x="0" y="0" width="290" height="92" rx="18" fill="#161B22" stroke="#30363D"/>
+    <text x="28" y="38" font-family="monospace" font-size="19" fill="#7EE787">python • node • react</text>
+    <text x="28" y="68" font-family="monospace" font-size="16" fill="#C9D1D9">markets → products → tools</text>
+  </g>
+</svg>
