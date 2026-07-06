@@ -11,14 +11,6 @@ Como usar:
   <img src="./assets/banner.svg" alt="Banner do perfil de Nícolas Dias" width="100%" />
 </p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nickdlb/count.svg" alt="Contador de visitantes" />
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&center=true&vCenter=true&width=760&height=70&color=4493F8&duration=3500&lines=Oi%2C%20eu%20sou%20N%C3%ADcolas%20Dias%21;Economia%2C%20mercado%20e%20c%C3%B3digo;Python%20%E2%80%A2%20Node%20%E2%80%A2%20React%20%E2%80%A2%20Web" alt="Texto animado de boas-vindas" />
-</h1>
-
 ## Sobre mim
 
 Sou **Nícolas Dias**, economista formado pela **UFRGS** em **2025/2** e desenvolvedor com experiência prática em web desde **2019**. Trabalho na interseção entre **inteligência de mercado**, **automação**, **produtos digitais** e **desenvolvimento web**.
@@ -74,31 +66,8 @@ Atualmente atuo como **Analista de Inteligência de Mercado na Ecomet**, sou fun
 ## 📊 Estatísticas
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=nickdlb&theme=transparent&show_icons=true&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub" />
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=nickdlb&theme=transparent&border_radius=10&locale=pt_BR" alt="Sequência de contribuições" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickdlb&theme=transparent&layout=donut&langs_count=8&border_radius=10&locale=pt-br" alt="Linguagens mais usadas" />
 </div>
-
-<hr />
-
-## 🐍 Minhas contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nickdlb/nickdlb/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nickdlb/nickdlb/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação snake das contribuições" src="https://raw.githubusercontent.com/nickdlb/nickdlb/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<hr />
-
-## ✍️ Últimos posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<hr />
 
 <p align="center">
   Economia, dados, tecnologia e vontade de construir soluções melhores.
